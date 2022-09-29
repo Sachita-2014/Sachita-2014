@@ -11,9 +11,10 @@
 ## :fire: **5 intresting facts about me:**
 * My name is Aleksandra;
 * I'm 27 years old;
-* I have 2 my daughters;
+* I make websites for 1 year;
 * I live near The Lake Baikal;
-* I am married;
+* I am ready to move to another city/country.
+
 
 ___
 ## :fire: 6 facts about my skills:
@@ -36,3 +37,6 @@ ___
 * I want to learn Java and create different applications;
 * I want to coddind big websaits;
 * I want to find my first job in IT.
+
+## for contact:
+* e-mail: sachita-2014@mail.ru;
