@@ -1,10 +1,10 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width=100
-</div>
-  
+
+  <img src="https://media.giphy.com/media/ZDTbix65Me1YDNLDF3/giphy.gif" width=250px align="right">
+ 
+
 # **!!!Hello everyone!!!**
 ## :boom: I glad to welcome you in my resume!
-
+ 
 ### Here you can read about me and my skils! 
 ### Are you ready? Lets start!:rocket:
 
