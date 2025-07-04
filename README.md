@@ -8,22 +8,42 @@
 ### Here you can read about me and my skils! 
 ### Are you ready? Lets start!:rocket:
 
-## :fire: **5 intresting facts about me:**
-* My name is Aleksandra;
-* I'm 27 years old;
-* I make websites for 1 year;
-* I live near The Lake Baikal;
-* I am ready to move to another city/country.
+Technical Skills (Hard Skills):
+HTML5/CSS3 – strong proficiency, including adaptive and cross-browser development
+
+Flexbox & Grid, BEM – clean and structured markup
+
+CSS Animations – enhancing user experience with smooth effects
+
+JavaScript (basic level) – implementing ready-made solutions, jQuery library
+
+Bootstrap – rapid development of responsive layouts
+
+DevTools – debugging, analyzing, and optimizing code
+
+Figma – converting designs into code with pixel-perfect accuracy
+
+Tilda / Taplink – experience in creating landing pages
+
+Git – basic collaboration skills for team coding
+
+AI Tools – ChatGPT, Leonardo AI, Kling, Gamma, and others
+
+Soft Skills:
+Attention to detail and perseverance
+
+Creativity and initiative
+
+Fast learning and stress resistance
+
+Strong communication and teamwork
+
+Additional Notes:
+I stay updated with the latest web development trends and continuously improve my skills. I believe that attention to detail and a passion for clean, precise coding make websites not only visually appealing but also user-friendly. I’m always open to new knowledge, challenges, and joining a team that values quality and growth.
 
 
 ___
-## :fire: 6 facts about my skills:
-* Completed courses in manual testing;✓
-* Completed courses in html and css development ;✓
-* I can write user storys, test cases and bug reports;✓
-* I coding different landing pages on html, css and js;✓
-* I using in my code jQwery, Bootstrap (at the request of the client);✓
-* i have experience in writing bug reports in bug tracking systems (Trello, testRail).✓
+
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
